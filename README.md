@@ -1,6 +1,6 @@
 # Visually Dehallucinative Instruction Generation: Know What You Don't Know
 
-**Visually Dehallucinative Instruction Generation: Know What You Don't Know** [[paper](https://link/to/paper)] <br>
+**Visually Dehallucinative Instruction Generation: Know What You Don't Know** [[paper](https://arxiv.org/abs/2402.09717)] <br>
 [Sungguk Cha](https://sunggukcha.github.io), Jusung Lee, Younghyun Lee and Cheoljong Yang
 
 <img src="images/categories.png"> <br>
